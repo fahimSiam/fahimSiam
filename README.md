@@ -36,7 +36,7 @@
 <br/>
 <details>
   <summary>:zap: GitHub Stats</summary>
-  [![Siam's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahimSiam)]
+  <img align="left" alt="Siam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fahimSiam"&show_icons=true&hide_border=true" />
 </details>
 
 [website]: http://fahimsiam.epizy.com/
