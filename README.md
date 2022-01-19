@@ -2,10 +2,11 @@
 
 [![Website](https://img.shields.io/website?label=fahimsiam&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://fahimsiam.github.io/)
 
-## I'm a fresh graduate trying to learn exciting things.
-- 💻🧑‍💼 doing an internship on Web Automation using Selenium Python
-- 🌱 I’m currently learning Andriod developement and ASP.Net.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+## I'm a Junior backend developer learning exciting things.
+- 💻🧑‍💼 Currently I am a Junior Backend Engineer in a Japanese Company(Ultra-X)
+- 💻🧑‍💼 I did a 2 month internship on Web Automation using Selenium Python
+- 🌱 learning Andriod developement and Node.js.
+- 🥅 2022 Goals: Learn all the popular node.js features.
 - ⚡ Fun fact: I love to binge anime and tv shows.
 
 ### Connect with me:
