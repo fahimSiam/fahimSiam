@@ -3,10 +3,10 @@
 [![Website](https://img.shields.io/website?label=fahimsiam&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://fahimsiam.github.io/)
 
 ## I'm a Junior backend developer learning exciting things.
-- 💻🧑‍💼 Currently I am a Junior Backend Engineer in a Japanese Company(Ultra-X)
-- 💻🧑‍💼 I did a 2 month internship on Web Automation using Selenium Python
-- 🌱 learning Andriod developement and Node.js.
-- 🥅 2022 Goals: Learn all the popular node.js features.
+- 💻🧑‍💼 Currently I am a Assistant Software developer at Soft BD Limited
+- 💻🧑‍💼 I was a junior backend developer for 6 months in a japanese software company( Ultra-X)
+- 🌱 learning Web developement with express.js, nest.js and React.js.
+- 🥅 2022 Goals: Continue practicing competitive programming problem solving.
 - ⚡ Fun fact: I love to binge anime and tv shows.
 
 ### Connect with me:
