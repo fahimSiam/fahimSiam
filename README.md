@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=fahimsiam&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://fahimsiam.github.io/)
 
-## I'm a Asst. backend developer learning exciting things.
+## I'm a Asst. backend engineer learning exciting things.
 - 💻🧑‍💼 Currently I am a Assistant Software developer at Soft BD Limited
 - 💻🧑‍💼 I was a junior backend developer for 6 months in a japanese software company( Ultra-X)
 - 🌱 learning Web developement with express.js, nest.js and React.js.
